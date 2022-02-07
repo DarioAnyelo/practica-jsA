@@ -16,3 +16,4 @@ const petThisYear = { ...dog, age: 8 };
 
 console.log(dog === petThisYear);
 console.log(petThisYear);
+

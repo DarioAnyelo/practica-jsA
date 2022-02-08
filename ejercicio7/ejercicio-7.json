@@ -1,0 +1,25 @@
+{
+    "products":[
+       {
+           "name": "Pescado",
+           "tipo": "Bonito",
+           "codigo":"p-50"
+       },
+       {
+           "name": "Res",
+           "tipo": "ovino",
+           "codigo":"o-75"
+       },
+       {
+           "name": "lacteos",
+           "tipo": "Gloria",
+           "codigo": "g-36"
+       }
+      ],
+    "ventas" : [
+     
+       { "amout":"600", "direction":"Lima"},
+       { "amout": "200", "direction": "Cusco"},
+       { "amout": "500", "direction": "Puno"}
+       ]
+    }       
